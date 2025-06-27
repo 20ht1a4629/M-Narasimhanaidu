@@ -42,7 +42,7 @@ public void display() {
 	{
 		Scanner sc =new Scanner(System.in);
 		while(true) {
-			System.out.println(" add/1. view/2. update/3. delete/4 ");
+			System.out.println(" \n1. add\n2. view\n3. update\n4. delete\n5. Exist");
 			System.out.println(" Enter choice :");
 			int choice = sc.nextInt();
 			switch(choice)
