@@ -10,7 +10,7 @@ public class Main
 		library.addBook(new Book("oops consepts","sai"));
 		System.out.println("available books");
 		library.displayBooks();
-		System.out.println("sprin boot");
+		System.out.println("spring boot");
 		System.out.println("\navailable books: ");
 		library.displayBooks();
 		System.out.println("\nreturning 'Spring boot' :");
